@@ -1,0 +1,26 @@
+damage:
+    -
+        id: 451
+        damage: 4
+    -
+        id: 267
+        damage: 3
+    -
+        id: 256
+        damage: 3    
+    -
+        id: 856
+        damage: 4
+    -
+        id: 854
+        damage: 4 
+    -
+        id: 855
+        damage: 4
+    -
+        id: 862
+        damage: 4
+    -
+        id: 861
+        damage: 4    
+        

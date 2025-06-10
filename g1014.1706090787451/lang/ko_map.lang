@@ -1,0 +1,23 @@
+g1014.respawn.ad.title=팁
+g1014.respawn.ad.content=AD를보고 아이템을 유지하고 현장에서 부활 시키십시오
+g1014.respawn.ad.button.txt=광고 시청
+unlock.vehicle.free.use.hint=광고를 무료로 사용하도록 시청
+unlock.vehicle.free.use=비어 있는
+
+g1014_revive_name=팁(%ss)
+g1014_revive_detail=부활은 기존 아이템을 유지할 수 있습니다.
+g1014_revive_here=제자리에서 부활
+g1014_revive_base=기지에서 되살아나다
+g1014_revive_invincible=부활 무적 %ss
+g1014_revive_no_invincible=무방비
+g1014_revive_watch_ad=광고를 보다
+
+g1014.vip.privilege1=일반 VIP의 죄수복과 특별한 경찰복을 받으세요
+g1014.vip.privilege2=매일 15회 무료 부활
+g1014.vip.privilege3=프리미엄 VIP 죄수복과 특수 경찰복을 받으세요
+g1014.vip.privilege4=매일 30회 무료 부활
+g1014.vip.privilege5=최대 배고픔이 100% 증가했습니다.
+g1014.subscription.privilege1=탈주 소득 포착 +20%
+g1014.vip.free.revive=무료
+
+

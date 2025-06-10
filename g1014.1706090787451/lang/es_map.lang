@@ -1,0 +1,21 @@
+g1014.respawn.ad.title=Consejos
+g1014.respawn.ad.content=ver AD para permanecer como elemento y resucitar in situ
+g1014.respawn.ad.button.txt=Ver AD
+unlock.vehicle.free.use.hint=ver AD para usar gratis
+unlock.vehicle.free.use=gratis
+
+g1014_revive_name=Puntas(%ss)
+g1014_revive_detail=Resurrection puede mantener elementos existentes
+g1014_revive_here=Resucitado en su lugar
+g1014_revive_base=Revivir en la base
+g1014_revive_invincible=Resucitar invencible %ss
+g1014_revive_no_invincible=Desprotegido
+g1014_revive_watch_ad=Ver un anuncio
+
+g1014.vip.privilege1=Obtenga el traje de prisionero vip ordinario y el traje de policía especial
+g1014.vip.privilege2=15 resurrecciones gratis por día
+g1014.vip.privilege3=Obtenga trajes de presos VIP premium y trajes especiales de policía
+g1014.vip.privilege4=30 resurrecciones gratis por día
+g1014.vip.privilege5=Hambre máxima aumentada en un 100%
+g1014.subscription.privilege1=Captura ingresos fugitivos +20%
+g1014.vip.free.revive=gratis

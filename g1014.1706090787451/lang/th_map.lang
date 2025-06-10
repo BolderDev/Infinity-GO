@@ -1,0 +1,21 @@
+g1014.respawn.ad.title=เคล็ดลับ
+g1014.respawn.ad.content=รับชมโฆษณาเพื่อคงสิ่งของและฟื้นคืนชีวิตในแหล่งกำเนิด
+g1014.respawn.ad.button.txt=ดูโฆษณา
+unlock.vehicle.free.use.hint=ดูโฆษณาที่จะใช้ฟรี
+unlock.vehicle.free.use=ฟรี
+
+g1014_revive_name=เคล็ดลับ(%ss)
+g1014_revive_detail=คืนชีพสามารถเก็บของที่มีอยู่
+g1014_revive_here=ฟื้นคืนชีพในสถานที่
+g1014_revive_base=ฟื้นที่ฐาน
+g1014_revive_invincible=คืนชีพ %ss อยู่ยงคงกระพัน
+g1014_revive_no_invincible=ไม่มีการป้องกัน
+g1014_revive_watch_ad=ดูโฆษณา
+
+g1014.vip.privilege1=รับชุดนักโทษวีไอพีธรรมดาและชุดตำรวจพิเศษ
+g1014.vip.privilege2=ฟื้นคืนชีพฟรี 15 ครั้งต่อวัน
+g1014.vip.privilege3=รับชุดนักโทษวีไอพีระดับพรีเมียมและชุดตำรวจพิเศษ
+g1014.vip.privilege4=ฟื้นคืนชีพฟรี 30 ครั้งต่อวัน
+g1014.vip.privilege5=ความหิวสูงสุดเพิ่มขึ้น 100%
+g1014.subscription.privilege1=ยึดรายได้ของผู้หลบหนี +20%
+g1014.vip.free.revive=ฟรี

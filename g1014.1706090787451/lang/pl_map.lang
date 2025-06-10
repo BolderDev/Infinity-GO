@@ -1,0 +1,21 @@
+g1014.respawn.ad.title=Porady
+g1014.respawn.ad.content=oglądać AD, aby pozostać przedmiotem i wskrzesić na miejscu
+g1014.respawn.ad.button.txt=Oglądać AD
+unlock.vehicle.free.use.hint=obejrzyj reklamę, aby korzystać za darmo
+unlock.vehicle.free.use=darmowy
+
+g1014_revive_name=Porady(%ss)
+g1014_revive_detail=Zmartwychwstanie może zachować istniejące przedmioty
+g1014_revive_here=zmartwychwstał na miejscu
+g1014_revive_base=ożywić w bazie
+g1014_revive_invincible=wskrzesić niezwyciężonego %ss
+g1014_revive_no_invincible=bezbronny
+g1014_revive_watch_ad=obejrzyj reklamę
+
+g1014.vip.privilege1=Zdobądź zwykły strój więźnia vipa i specjalny strój policyjny
+g1014.vip.privilege2=15 darmowych wskrzeszeń dziennie
+g1014.vip.privilege3=Zdobądź wysokiej jakości kombinezony więźniów VIP i specjalne kombinezony policyjne
+g1014.vip.privilege4=30 darmowych wskrzeszeń dziennie
+g1014.vip.privilege5=Maksymalny głód zwiększony o 100%
+g1014.subscription.privilege1=Dochód z przechwytywania uciekinierów +20%
+g1014.vip.free.revive=bezpłatny

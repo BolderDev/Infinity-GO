@@ -1,0 +1,21 @@
+g1014.respawn.ad.title=Kiat
+g1014.respawn.ad.content=tonton AD untuk tetap item dan hidupkan kembali di situ
+g1014.respawn.ad.button.txt=Tonton AD
+unlock.vehicle.free.use.hint=tonton AD untuk digunakan secara gratis
+unlock.vehicle.free.use=bebas
+
+g1014_revive_name=Kiat(%ss)
+g1014_revive_detail=Kebangkitan dapat menyimpan item yang ada
+g1014_revive_here=Dibangkitkan di tempat
+g1014_revive_base=Hidup kembali di pangkalan
+g1014_revive_invincible=Membangkitkan %ss tak terkalahkan
+g1014_revive_no_invincible=Tak terlindung
+g1014_revive_watch_ad=Menonton iklan
+
+g1014.vip.privilege1=Dapatkan setelan tahanan vip biasa dan setelan polisi khusus
+g1014.vip.privilege2=15 kebangkitan gratis per hari
+g1014.vip.privilege3=Dapatkan setelan tahanan VIP premium dan setelan polisi khusus
+g1014.vip.privilege4=30 kebangkitan gratis per hari
+g1014.vip.privilege5=Kelaparan maksimal meningkat 100%
+g1014.subscription.privilege1=Tangkap pendapatan buronan +20%
+g1014.vip.free.revive=bebas

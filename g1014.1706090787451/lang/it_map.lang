@@ -1,0 +1,21 @@
+g1014.respawn.ad.title=Suggerimenti
+g1014.respawn.ad.content=guarda AD per rimanere oggetto e resuscitare in situ
+g1014.respawn.ad.button.txt=Guarda AD
+unlock.vehicle.free.use.hint=guarda AD da usare gratuitamente
+unlock.vehicle.free.use=gratuito
+
+g1014_revive_name=Consigli(%ss)
+g1014_revive_detail=La resurrezione può mantenere gli oggetti esistenti
+g1014_revive_here=resuscitato al suo posto
+g1014_revive_base=rianimare alla base
+g1014_revive_invincible=resuscitare invincibili %ss
+g1014_revive_no_invincible=non protetto
+g1014_revive_watch_ad=guarda un annuncio
+
+g1014.vip.privilege1=Ottieni la normale tuta da prigioniero vip e la tuta speciale della polizia
+g1014.vip.privilege2=15 risurrezioni gratuite al giorno
+g1014.vip.privilege3=Ottieni tute da prigioniero VIP premium e tute speciali della polizia
+g1014.vip.privilege4=30 risurrezioni gratuite al giorno
+g1014.vip.privilege5=La fame massima è aumentata del 100%
+g1014.subscription.privilege1=Cattura reddito fuggitivo + 20%
+g1014.vip.free.revive=gratuito

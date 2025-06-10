@@ -1,0 +1,21 @@
+g1014.respawn.ad.title=Tips
+g1014.respawn.ad.content=Assista aos anúncios para manter o item e reaparecer no local.
+g1014.respawn.ad.button.txt=Assista aos anúncios para renascer.
+unlock.vehicle.free.use.hint=Assista aos anúncios para ganhar uma chance de graça.
+unlock.vehicle.free.use=Experimentar gratuitamente
+
+g1014_revive_name=Pontas(%ss)
+g1014_revive_detail=Ressurreição pode manter itens existentes
+g1014_revive_here=Ressuscitou no lugar
+g1014_revive_base=Reviver na base
+g1014_revive_invincible=Ressuscitar invencível %ss
+g1014_revive_no_invincible=Desprotegido
+g1014_revive_watch_ad=Assista a um anúncio
+
+g1014.vip.privilege1=Obtenha o traje de prisioneiro do vip comum e o traje especial da polícia
+g1014.vip.privilege2=15 ressurreições gratuitas por dia
+g1014.vip.privilege3=Obtenha trajes de prisioneiro VIP premium e trajes especiais da polícia
+g1014.vip.privilege4=30 ressurreições gratuitas por dia
+g1014.vip.privilege5=Fome máxima aumentada em 100%
+g1014.subscription.privilege1=Capturar renda fugitiva +20%
+g1014.vip.free.revive=livre

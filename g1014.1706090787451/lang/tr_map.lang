@@ -1,0 +1,21 @@
+g1014.respawn.ad.title=İpuçları
+g1014.respawn.ad.content=AD'nin kalmasını ve yerinde diriltmesini izlemek
+g1014.respawn.ad.button.txt=AD izle
+unlock.vehicle.free.use.hint=ücretsiz kullanmak için AD izle
+unlock.vehicle.free.use=ücretsiz
+
+g1014_revive_name=İpuçları(%ss)
+g1014_revive_detail=Diriliş mevcut öğeleri tutabilir
+g1014_revive_here=yerinde dirildi
+g1014_revive_base=üssünde canlandırmak
+g1014_revive_invincible=yenilmez %ss diriltmek
+g1014_revive_no_invincible=korumasız
+g1014_revive_watch_ad=reklam izle
+
+g1014.vip.privilege1=Sıradan VIP mahkum kostümü ve özel polis kıyafeti alın
+g1014.vip.privilege2=Günde 15 ücretsiz diriliş
+g1014.vip.privilege3=Birinci sınıf VIP mahkûm kıyafetleri ve özel polis kıyafetleri alın
+g1014.vip.privilege4=Günde 30 ücretsiz diriliş
+g1014.vip.privilege5=Maksimum açlık %100 artırıldı
+g1014.subscription.privilege1=Kaçak gelir elde etme +%20
+g1014.vip.free.revive=özgür

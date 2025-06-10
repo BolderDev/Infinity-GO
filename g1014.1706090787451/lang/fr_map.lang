@@ -1,0 +1,21 @@
+g1014.respawn.ad.title=Conseils
+g1014.respawn.ad.content=regarder AD pour rester objet et ressusciter in situ
+g1014.respawn.ad.button.txt=Regarder AD
+unlock.vehicle.free.use.hint=regarder AD à utiliser gratuitement
+unlock.vehicle.free.use=libre
+
+g1014_revive_name=Des astuces(%ss)
+g1014_revive_detail=La résurrection peut conserver les objets existants
+g1014_revive_here=ressuscité en place
+g1014_revive_base=revivre à la base
+g1014_revive_invincible=ressusciter invincible %ss
+g1014_revive_no_invincible=non protégé
+g1014_revive_watch_ad=regarder une annonce
+
+g1014.vip.privilege1=Obtenez le costume de prisonnier vip ordinaire et le costume de police spécial
+g1014.vip.privilege2=15 résurrections gratuites par jour
+g1014.vip.privilege3=Obtenez des costumes de prisonnier VIP premium et des costumes de police spéciaux
+g1014.vip.privilege4=30 résurrections gratuites par jour
+g1014.vip.privilege5=La faim maximale a augmenté de 100 %
+g1014.subscription.privilege1=Capturer des revenus fugitifs +20 %
+g1014.vip.free.revive=gratuit

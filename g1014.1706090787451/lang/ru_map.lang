@@ -1,0 +1,21 @@
+g1014.respawn.ad.title=подсказки
+g1014.respawn.ad.content=смотреть AD, чтобы остаться предметом и воскресить на месте
+g1014.respawn.ad.button.txt=Смотреть AD
+unlock.vehicle.free.use.hint=смотреть AD, чтобы использовать бесплатно
+unlock.vehicle.free.use=свободно
+
+g1014_revive_name=Советы(%ss)
+g1014_revive_detail=Воскрешение может сохранить существующие предметы
+g1014_revive_here=воскрес на месте
+g1014_revive_base=возродиться на базе
+g1014_revive_invincible=воскресить непобедимых %ss
+g1014_revive_no_invincible=незащищенный
+g1014_revive_watch_ad=смотреть рекламу
+
+g1014.vip.privilege1=Получите обычный костюм заключенного VIP и специальный полицейский костюм.
+g1014.vip.privilege2=15 бесплатных воскрешений в день
+g1014.vip.privilege3=Получите премиальные костюмы VIP-заключенных и специальные полицейские костюмы
+g1014.vip.privilege4=30 бесплатных воскрешений в день
+g1014.vip.privilege5=Максимальный голод увеличен на 100%
+g1014.subscription.privilege1=Захват беглого дохода +20%
+g1014.vip.free.revive=бесплатно

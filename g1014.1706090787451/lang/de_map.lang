@@ -1,0 +1,21 @@
+g1014.respawn.ad.title=Tipps
+g1014.respawn.ad.content=Beobachten Sie AD, um Gegenstand zu bleiben und vor Ort wieder aufzustehen
+g1014.respawn.ad.button.txt=AD ansehen
+unlock.vehicle.free.use.hint=Sieh dir AD an, um es kostenlos zu nutzen
+unlock.vehicle.free.use=kostenlos
+
+g1014_revive_name=Tipps(%ss)
+g1014_revive_detail=Auferstehung kann vorhandene Gegenstände behalten
+g1014_revive_here=An Ort und Stelle auferstanden
+g1014_revive_base=An der Basis wiederbeleben
+g1014_revive_invincible=Unbesiegbar %ss wiederbeleben
+g1014_revive_no_invincible=Ungeschützt
+g1014_revive_watch_ad=Eine Anzeige ansehen
+
+g1014.vip.privilege1=Holen Sie sich einen gewöhnlichen VIP-Gefangenenanzug und einen speziellen Polizeianzug
+g1014.vip.privilege2=15 kostenlose Auferstehungen pro Tag
+g1014.vip.privilege3=Holen Sie sich Premium-VIP-Gefangenenanzüge und spezielle Polizeianzüge
+g1014.vip.privilege4=30 kostenlose Auferstehungen pro Tag
+g1014.vip.privilege5=Maximaler Hunger um 100 % erhöht
+g1014.subscription.privilege1=Erfassen von flüchtigem Einkommen +20 %
+g1014.vip.free.revive=frei

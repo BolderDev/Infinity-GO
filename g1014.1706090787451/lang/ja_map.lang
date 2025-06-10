@@ -1,0 +1,21 @@
+g1014.respawn.ad.title=ヒント
+g1014.respawn.ad.content=ADがアイテムを維持し、その場で復活するのを見る
+g1014.respawn.ad.button.txt=ADを見る
+unlock.vehicle.free.use.hint=無料で使用するADを見る
+unlock.vehicle.free.use=無料
+
+g1014_revive_name=チップ(%ss)
+g1014_revive_detail=復活は既存のアイテムを保持できます
+g1014_revive_here=その場で復活
+g1014_revive_base=拠点で復活
+g1014_revive_invincible=無敵%ss復活
+g1014_revive_no_invincible=保護されていない
+g1014_revive_watch_ad=広告を見る
+
+g1014.vip.privilege1=通常のVIPの囚人服と特別な警察のスーツを入手
+g1014.vip.privilege2=1日あたり15回の無料復活
+g1014.vip.privilege3=プレミアム VIP 囚人スーツと特別な警察スーツを手に入れましょう
+g1014.vip.privilege4=1日あたり30回の無料復活
+g1014.vip.privilege5=最大満腹度が100%増加
+g1014.subscription.privilege1=逃亡者の捕獲収入+20%
+g1014.vip.free.revive=無料

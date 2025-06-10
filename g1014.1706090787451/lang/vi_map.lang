@@ -1,0 +1,30 @@
+g1014.respawn.ad.title=Lời khuyên
+g1014.respawn.ad.content=xem AD để duy trì mục và hồi sinh tại chỗ
+g1014.respawn.ad.button.txt=Xem AD
+unlock.vehicle.free.use.hint=xem AD để sử dụng miễn phí
+unlock.vehicle.free.use=miễn phí
+
+g1014_revive_name=Lời khuyên(%ss)
+g1014_revive_detail=Hồi sinh có thể giữ các vật phẩm hiện có
+g1014_revive_here=Hồi sinh tại chỗ
+g1014_revive_base=Hồi sinh tại căn cứ
+g1014_revive_invincible=Hồi sinh %ss bất khả chiến bại
+g1014_revive_no_invincible=Không được bảo vệ
+g1014_revive_watch_ad=Xem quảng cáo
+
+g1014.vip.privilege1Nhận bộ đồ tù nhân vip thông thường và bộ đồ cảnh sát đặc biệt
+g1014.vip.privilege215 lần hồi sinh miễn phí mỗi ngày
+g1014.vip.privilege3Nhận bộ đồ tù nhân VIP cao cấp và bộ đồ cảnh sát đặc biệt
+g1014.vip.privilege430 lần hồi sinh miễn phí mỗi ngày
+g1014.vip.privilege5Độ đói tối đa tăng 100%
+g1014.subscription.privilege1Nắm bắt thu nhập chạy trốn +20%
+g1014.vip.free.revivemiễn phí
+
+g1014.vip.privilege1=Nhận bộ đồ tù nhân vip thông thường và bộ đồ cảnh sát đặc biệt
+g1014.vip.privilege2=15 lần hồi sinh miễn phí mỗi ngày
+g1014.vip.privilege3=Nhận bộ đồ tù nhân VIP cao cấp và bộ đồ cảnh sát đặc biệt
+g1014.vip.privilege4=30 lần hồi sinh miễn phí mỗi ngày
+g1014.vip.privilege5=Độ đói tối đa tăng 100%
+g1014.subscription.privilege1=Nắm bắt thu nhập chạy trốn +20%
+g1014.vip.free.revive=miễn phí
+

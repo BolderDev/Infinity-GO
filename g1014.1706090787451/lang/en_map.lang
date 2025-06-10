@@ -1,0 +1,21 @@
+g1014.respawn.ad.title=Tips
+g1014.respawn.ad.content=watch AD to remain item and resurrect in situ
+g1014.respawn.ad.button.txt=Watch AD
+unlock.vehicle.free.use.hint=watch AD to try once for free
+unlock.vehicle.free.use=try once
+
+g1014_revive_name=Tips(%ss)
+g1014_revive_detail=Resurrection can keep existing items
+g1014_revive_here=Resurrected in place
+g1014_revive_base=Revive at base
+g1014_revive_invincible=Resurrect invincible %ss
+g1014_revive_no_invincible=Unprotected
+g1014_revive_watch_ad=Watch an ad
+
+g1014.vip.privilege1=Get ordinary vip's prisoner suit and special police suit
+g1014.vip.privilege2=15 free resurrections per day
+g1014.vip.privilege3=Get premium VIP prisoner suits and special police suits
+g1014.vip.privilege4=30 free resurrections per day
+g1014.vip.privilege5=Max hunger increased by 100%
+g1014.subscription.privilege1=Capture fugitive income +20%
+g1014.vip.free.revive=free
